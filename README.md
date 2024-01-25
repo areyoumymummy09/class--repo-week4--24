@@ -1,6 +1,8 @@
 # class--repo-week4--24
 This is a repo  that we are creating in class to demonstrate the homework assignment.
 
+**This is Faizan Khan, using repository**
+
 ## This will help is learn markdown.
 
 *Italic text can be made with an asterisk* 
@@ -20,3 +22,4 @@ Ordered List:
 My fav website: 
 [Amazon](http://www.amazon.ca)
 ![Fender Telecaster](images/tele.jpg)
+![Fender Telecaster](images/tele11.jpg)
